@@ -19,3 +19,4 @@ This system consisting of an inductive proximity sensor and capacitive proximity
 - The LCD displays the type of garbage
 
 # Project Link
+YouTube Presentation >> https://youtu.be/IAhG8QoQ0dw
