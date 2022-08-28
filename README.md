@@ -20,3 +20,4 @@ This system consisting of an inductive proximity sensor and capacitive proximity
 
 # Project Link
 YouTube Presentation >> https://youtu.be/IAhG8QoQ0dw
+LinkeIn Post >> https://www.linkedin.com/posts/danuazhar_automatic-garbage-classification-system-using-activity-6969527011736240128-jgtp?utm_source=share&utm_medium=member_desktop
